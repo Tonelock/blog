@@ -1,0 +1,19 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
+
+---
+
+Herzlich Willkommen auf meinem Blog! Ich bin Alex aus München und teile hier meine Reiseerlebnisse und -erfahrungen. Seit 2011 bereise ich die Welt, wann immer es mir meine Zeit erlaubt, und habe dabei schon
