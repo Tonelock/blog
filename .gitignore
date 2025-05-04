@@ -4,4 +4,7 @@
 .Ruserdata
 *.jpg
 *.jpeg
+*.png
 /.quarto/
+*.html
+/_site/

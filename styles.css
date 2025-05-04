@@ -1,1 +1,53 @@
-/* css styles */
+/* styles.css */
+h1 {
+  color: #373C6F;
+}
+
+a {
+  text-decoration: none;
+  color: #373C6F;
+}
+
+.my-box {
+  padding: 1em;
+  background-color: #f5f5f5;
+  border-left: 4px solid #333;
+  margin-bottom: 1em;
+}
+
+.quarto-title-banner {
+  background-color: #373C6F;
+  color: white; /* Textfarbe im Banner */
+}
+
+.navbar {
+  background-color: #373C6F;  /* Dunkles Blau */
+}
+
+/* Textfarbe der Links in der Navbar */
+.navbar .navbar-nav .nav-link {
+  color: #ffffff;
+}
+
+/* Farbe beim Hover */
+.navbar .navbar-nav .nav-link:hover {
+  color: #F3DC99;
+}
+
+/* Aktiver Link */
+.navbar .navbar-nav .nav-link.active {
+  color: #373C6F;
+  font-weight: bold;
+}
+
+.listing-categories h3 {
+  visibility: hidden; /* Original-Text ausblenden */
+}
+
+.listing-categories h3::before {
+  content: "Kategorien"; /* Neuen Text einfügen */
+  visibility: visible;
+  position: absolute;
+  top: 0;
+  left: 0;
+}

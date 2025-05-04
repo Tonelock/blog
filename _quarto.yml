@@ -2,7 +2,8 @@ project:
   type: website
 
 website:
-  title: "Alex' Travels"
+  title: "Weltsicht"
+  # site-url: https://weltsicht.de
   navbar:
     right:
       - about.qmd
@@ -10,12 +11,14 @@ website:
         href: https://github.com/Tonelock
       - icon: instagram
         href: https://www.instagram.com/ttonelock/
+      - legal_notice.qmd
+    lang: de
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - sandstone
     css: styles.css
+
 
 
 

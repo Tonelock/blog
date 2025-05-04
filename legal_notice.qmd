@@ -1,0 +1,14 @@
+---
+title: "Impressum"
+format: html
+page-layout: full
+---
+
+Dies ist ein **rein privater Blog** ohne kommerzielle Absicht.\
+Die Inhalte dienen ausschließlich persönlichen Zwecken und stellen keine journalistisch-redaktionelle Tätigkeit dar.
+
+Gemäß § 5 TMG besteht daher **keine Impressumspflicht**.
+
+Kontaktaufnahme ist per E-Mail möglich:
+
+**E-Mail:** **alammerich\@gmx.de**

@@ -1,19 +1,21 @@
 ---
-title: "About"
+title: "Über mich"
 image: profile.jpg
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
-    - icon: github
-      text: Github
-      href: https://github.com
-
+      - icon: github
+        href: https://github.com/Tonelock
+      - icon: instagram
+        href: https://www.instagram.com/ttonelock/
 ---
 
-Herzlich Willkommen auf meinem Blog! Ich bin Alex aus München und teile hier meine Reiseerlebnisse und -erfahrungen. Seit 2011 bereise ich die Welt, wann immer es mir meine Zeit erlaubt, und habe dabei schon
+**Herzlich Willkommen auf meinem Blog!** Ich bin Alex und teile hier meine Reiseerlebnisse und -erfahrungen. Seit 2011 bereise ich die Welt, wann immer es mir meine Zeit erlaubt, und habe dabei schon über vierzig Länder bereist, viele tolle Menschen getroffen, wunderschöne Orte gesehen und mich ins Traveln verliebt!
+
+Die Beiträge sind eine Mischung aus Geschichten und Anekdoten, die ich während des Reisens erlebt habe, und Beschreibungen von Orten und Aktivitäten, die ich bereist habe.
+
+Ich hoffe sehr, dass der Blog dich unterhält, inspiriert oder dir einfach nur angenehm die Zeit vertreibt :)
+
+Lieben Gruß
+
+Alex
