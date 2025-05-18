@@ -2,9 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
-*.jpg
-*.jpeg
-*.png
 /.quarto/
 *.html
-/_site/
