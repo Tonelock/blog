@@ -1,20 +1,23 @@
 ---
 title: "Willkommen auf meinem Blog!"
-author: "Alex Lammerich"
+author: "Alex"
 date: "2025-05-04"
-date-modified: "2025-05-04"
+date-modified: "2025-05-29"
 categories: [news]
 image: "20250225_165208.jpg"
 ---
 
 # Hallo und herzlich Willkommen auf meinem Blog!
 
-Ich bin Alex, und starte mit diesem Post meinen Reiseblog! Ziel dieses Projektes ist es, meine Reiseerlebnisse und -erfahrungen mit euch hoffentlich interessierten Lesern zu teilen, und vielleicht den Einen oder Anderen zum Reisen zu inspirieren! Es wird sowohl Anekdoten und Geschichten geben, als auch allgemeine Tipps sowie solche zu bestimmten Reisezielen geben.
+
+Ich bin Alex, und starte mit diesem Post meinen Reiseblog! Ziel dieses Projektes ist es, meine Reiseerlebnisse und -erfahrungen mit euch hoffentlich interessierten Lesern und Leserinnen zu teilen, und vielleicht den Einen oder Anderen zum Reisen zu inspirieren! Es wird sowohl Anekdoten und Geschichten, als auch allgemeine Tipps sowie Details zu bestimmten Reisezielen geben.
+
+Falls ihr mich kontaktieren wollt, könnt ihr mir auf Instagram schreiben, oder per Mail. Ich möchte auch in naher Zukunft eine Kommentierfunktion hinzufügen, um das zu vereinfachen.
 
 Weitere Infos zu mir findet ihr auf der [About-Seite](../../about.html)!
 
-Aktuell ist der Blog leider noch etwas leer, aber ich werde ihn nach und nach mit Leben füllen :) da ich kein Vollzeit-Blogger bin, sondern dieses Projekt neben einem Vollzeitjob betreibe, kann dies auch mal in unregelmäßigen Abständen geschehen...
+Aktuell ist der Blog leider noch etwas leer, aber ich werde ihn nach und nach mit Leben füllen :) da ich kein hauptberuflicher Blogger bin, sondern dieses Projekt neben einem Vollzeitjob betreibe, kann dies auch mal in unregelmäßigen Abständen geschehen...
 
-Ich freue mich sehr auf die kommende Zeit, und definitiv auch über Feedback zu meinen Posts! Außerdem entwickle und hoste ich den Block selbstständig, das heißt, wenn ihr Anregungen und Vorschläge zu Design und Layout habt, bin ich immer offen dafür! Dazu könnt ihr mir auf Instagram schreiben, oder per Mail. Ich möchte auch in naher Zukunft eine Kommentierfunktion hinzufügen, um das zu vereinfachen.
+Ich freue mich sehr auf die kommende Zeit, und definitiv auch über Feedback zu meinen Posts! Außerdem entwickle und hoste ich den Block selbstständig, das heißt, wenn ihr Anregungen und Vorschläge zu Design und Layout habt, bin ich immer offen dafür!
 
 ![](20250225_165208.jpg)
